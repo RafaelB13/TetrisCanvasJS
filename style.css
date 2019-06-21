@@ -1,0 +1,9 @@
+ 
+canvas { margin-left: 35%; }
+
+#score {display: inline-block}
+div {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
