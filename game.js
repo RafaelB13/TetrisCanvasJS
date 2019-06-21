@@ -5,7 +5,7 @@ const pontuacao = document.getElementById("score")
 
 const ROW = 20
 const COL = COLUMN = 10;
-const SQ = SQUARESIZE = 35;
+const SQ = SQUARESIZE = 30;
 const VACANT = "WHITE"
 
 
